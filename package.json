@@ -1,0 +1,21 @@
+{
+  "name": "parcel-plugin-kit",
+  "version": "0.0.2",
+  "description": "A parcel plugin for compiling .kit template files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parcel",
+    "codekit"
+  ],
+  "author": "anthony@prestigepromedia.com",
+  "license": "MIT",
+  "dependencies": {
+    "ppm-node-kit": "^1.0.0"
+  },
+  "peerDependencies": {
+    "parcel-bundler": "~1"
+  }
+}
