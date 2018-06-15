@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A parcel plugin for compiling .kit template files",
   "main": "index.js",
   "scripts": {
